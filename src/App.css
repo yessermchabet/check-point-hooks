@@ -1,0 +1,19 @@
+.centerDiv{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .akther{
+    color: green;
+  }
+  
+  .ahmer{
+    color: red;
+  }
+
+
+#pp{
+    background-color: bisque;
+  }
+  
